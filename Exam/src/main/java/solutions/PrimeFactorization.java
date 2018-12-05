@@ -24,7 +24,7 @@ public class PrimeFactorization {
 			number = -number;
 		}
 
-		int possiblePrimeFactor = number;
+		int possiblePrimeFactor = 2;
 		int dividedNumber = number;
 		while (possiblePrimeFactor <= number) {
 			if (isPrime(possiblePrimeFactor) && dividedNumber % possiblePrimeFactor == 0) {
