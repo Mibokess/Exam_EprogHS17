@@ -25,17 +25,18 @@ public class PrimeFactorization {
 		}
 
 		int possiblePrimeFactor = number;
-		while (possiblePrimeFactor > 1) {
-			if (isPrime(possiblePrimeFactor) && number % possiblePrimeFactor == 0) {
+		int dividedNumber = number;
+		while (possiblePrimeFactor <= number) {
+			if (isPrime(possiblePrimeFactor) && dividedNumber % possiblePrimeFactor == 0) {
 				primesFactors.add(possiblePrimeFactor);
-				number /= possiblePrimeFactor;
+				dividedNumber /= possiblePrimeFactor;
 			} else {
-				--possiblePrimeFactor;
+				++possiblePrimeFactor;
 			}
 
 		}
 
-		Collections.sort(primesFactors);
+		// Collections.sort(primesFactors); Not needed as the primes are added in order to the list.
 		return primesFactors;
 	}
 
