@@ -15,7 +15,7 @@ public class BeeFactory {
 		Scanner scanner = new Scanner(new File(dateiName));
 		PrintStream output = new PrintStream(System.out);
 
-		analyzeButStreams(scanner, output);
+		analyze(scanner, output);
 
 		output.close();
 		scanner.close();
@@ -46,14 +46,12 @@ public class BeeFactory {
 			}
 		}
 
-		Map.Entry<String, Integer> maxCountry = countryToSpecialSumMap.firstEntry();
+		Map.Entry<String, Integer> maxSpecialCountry = countryToSpecialSumMap.firstEntry();
 		for (Map.Entry<String, Integer> country : countryToSpecialSumMap.entrySet()) {
-			if (maxCountry.getValue() < country.getValue()) maxCountry = country;
+			if (maxSpecialCountry.getValue() < country.getValue()) maxSpecialCountry = country;
 		}
 
-		output.print(maxTotalPerson.getName() + " " + maxTotalPerson.getTotalPayment() + " ");
-		output.print(maxSpecialPercentagePerson.getName() + " " + Math.round(100 * maxSpecialPercentagePerson.getPercentageSpecial()) + " ");
-		output.println(maxCountry.getKey() + " " + maxCountry.getValue());
+		printData(maxTotalPerson, maxSpecialPercentagePerson, maxSpecialCountry, output);
 	}
 
 	public static void analyzeButCollections(Scanner input, PrintStream output) {
@@ -81,9 +79,7 @@ public class BeeFactory {
 			}
 		}
 
-		output.print(maxTotalPerson.getName() + " " + maxTotalPerson.getTotalPayment() + " ");
-		output.print(maxSpecialPercentagePerson.getName() + " " + Math.round(100 * maxSpecialPercentagePerson.getPercentageSpecial()) + " ");
-		output.println(maxCountry + " " + maxSpecialCountry);
+		printData(maxTotalPerson, maxSpecialPercentagePerson, maxCountry, maxSpecialCountry, output);
 	}
 
 	public static void analyzeButStreams(Scanner input, PrintStream output) {
@@ -96,9 +92,7 @@ public class BeeFactory {
 		var countrySumSpecialMap = people.stream().collect(Collectors.groupingBy(Person::getCountry, Collectors.summingInt(Person::getSpecialPayments)));
 		var maxSpecialCountry = Collections.max(countrySumSpecialMap.entrySet(), Comparator.comparing(Map.Entry::getValue));
 
-		output.print(maxTotalPerson.getName() + " " + maxTotalPerson.getTotalPayment() + " ");
-		output.print(maxSpecialPercentagePerson.getName() + " " + Math.round(100 * maxSpecialPercentagePerson.getPercentageSpecial()) + " ");
-		output.println(maxSpecialCountry.getKey() + " " + maxSpecialCountry.getValue());
+		printData(maxTotalPerson, maxSpecialPercentagePerson, maxSpecialCountry, output);
 	}
 
 	private static List<Person> readData(Scanner input) {
@@ -109,6 +103,18 @@ public class BeeFactory {
 		}
 
 		return people;
+	}
+
+	private static void printData(Person maxTotalPerson, Person maxSpecialPercentagePerson, Map.Entry<String, Integer> maxSpecialCountry, PrintStream output) {
+		output.print(maxTotalPerson.getName() + " " + maxTotalPerson.getTotalPayment() + " ");
+		output.print(maxSpecialPercentagePerson.getName() + " " + Math.round(100 * maxSpecialPercentagePerson.getPercentageSpecial()) + " ");
+		output.println(maxSpecialCountry.getKey() + " " + maxSpecialCountry.getValue());
+	}
+
+	private static void printData(Person maxTotalPerson, Person maxSpecialPercentagePerson, String maxCountry, int maxSpecialCountry, PrintStream output) {
+		output.print(maxTotalPerson.getName() + " " + maxTotalPerson.getTotalPayment() + " ");
+		output.print(maxSpecialPercentagePerson.getName() + " " + Math.round(100 * maxSpecialPercentagePerson.getPercentageSpecial()) + " ");
+		output.println(maxCountry + " " + maxSpecialCountry);
 	}
 }
 

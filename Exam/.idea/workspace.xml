@@ -2,28 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d2baa609-a579-46b0-bd23-bd2d23c7b923" name="Default Changelist" comment="Deleted Test">
-      <change afterPath="$PROJECT_DIR$/src/main/java/solutions/BeeFactory.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exam.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Exam.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/exercises/BeeFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/exercises/BeeFactory.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/solutions/Tree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/solutions/Tree.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/exercises/BeeFactory.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/exercises/BeeFactory.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/exercises/InnerNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/exercises/InnerNode.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/exercises/Interleavings.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/exercises/Interleavings.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/exercises/LeafNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/exercises/LeafNode.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/exercises/Node.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/exercises/Node.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/exercises/PrimeFactorization.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/exercises/PrimeFactorization.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/exercises/Tree.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/exercises/Tree.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/solutions/InnerNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/solutions/InnerNode.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/solutions/Interleavings.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/solutions/Interleavings.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/solutions/LeafNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/solutions/LeafNode.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/solutions/Node.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/solutions/Node.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/solutions/PrimeFactorization.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/solutions/PrimeFactorization.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/solutions/Tree.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/solutions/Tree.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/solutions/BeeFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/solutions/BeeFactory.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -89,14 +68,14 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="5454" />
+          <entry key="java" value="5899" />
           <entry key="txt" value="12" />
           <entry key="xml" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="5454" />
+          <entry key="JAVA" value="5899" />
           <entry key="PLAIN_TEXT" value="12" />
           <entry key="XML" value="2" />
         </counts>
@@ -145,8 +124,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/solutions/BeeFactory.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1040">
-              <caret line="77" column="57" lean-forward="true" selection-start-line="77" selection-start-column="57" selection-end-line="77" selection-end-column="57" />
+            <state relative-caret-position="264">
+              <caret line="83" lean-forward="true" selection-start-line="83" selection-end-line="83" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="method#readData#0;class#BeeFactory#0" />
@@ -482,12 +461,12 @@
       <workItem from="1543957133025" duration="9152000" />
       <workItem from="1543997520635" duration="3399000" />
       <workItem from="1544560923736" duration="11520000" />
-      <workItem from="1544624298491" duration="2148000" />
+      <workItem from="1544624298491" duration="2556000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="26219000" />
+    <option name="totallyTimeSpent" value="26627000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-6" y="-6" width="1381" height="925" extended-state="6" />
@@ -688,8 +667,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/solutions/BeeFactory.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1040">
-          <caret line="77" column="57" lean-forward="true" selection-start-line="77" selection-start-column="57" selection-end-line="77" selection-end-column="57" />
+        <state relative-caret-position="264">
+          <caret line="83" lean-forward="true" selection-start-line="83" selection-end-line="83" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="method#readData#0;class#BeeFactory#0" />
