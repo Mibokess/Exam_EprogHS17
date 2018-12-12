@@ -1,7 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d2baa609-a579-46b0-bd23-bd2d23c7b923" name="Default Changelist" comment="" />
+    <list default="true" id="d2baa609-a579-46b0-bd23-bd2d23c7b923" name="Default Changelist" comment="Deleted Test">
+      <change afterPath="$PROJECT_DIR$/src/main/java/solutions/BeeFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exam.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Exam.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/exercises/BeeFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/exercises/BeeFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/solutions/Tree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/solutions/Tree.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/exercises/BeeFactory.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/exercises/BeeFactory.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/exercises/InnerNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/exercises/InnerNode.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/exercises/Interleavings.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/exercises/Interleavings.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/exercises/LeafNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/exercises/LeafNode.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/exercises/Node.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/exercises/Node.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/exercises/PrimeFactorization.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/exercises/PrimeFactorization.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/exercises/Tree.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/exercises/Tree.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/solutions/InnerNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/solutions/InnerNode.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/solutions/Interleavings.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/solutions/Interleavings.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/solutions/LeafNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/solutions/LeafNode.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/solutions/Node.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/solutions/Node.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/solutions/PrimeFactorization.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/solutions/PrimeFactorization.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/solutions/Tree.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/solutions/Tree.class" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -55,58 +78,80 @@
         </counts>
       </usages-collector>
     </session>
+    <session id="-175936669">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="1" />
+          <entry key="project.open.time.1" value="1" />
+          <entry key="project.open.time.17" value="1" />
+          <entry key="project.opened" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="java" value="5454" />
+          <entry key="txt" value="12" />
+          <entry key="xml" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="5454" />
+          <entry key="PLAIN_TEXT" value="12" />
+          <entry key="XML" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="iml" value="1" />
+          <entry key="java" value="10" />
+          <entry key="txt" value="1" />
+          <entry key="xml" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="IDEA_MODULE" value="1" />
+          <entry key="JAVA" value="10" />
+          <entry key="PLAIN_TEXT" value="1" />
+          <entry key="XML" value="1" />
+        </counts>
+      </usages-collector>
+    </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
+        <entry file="jar://C:/Program Files/Java/jdk-11.0.1/lib/src.zip!/java.base/java/util/Collections.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="720">
+              <caret line="81" column="10" selection-start-line="81" selection-end-line="82" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/exercises/BeeFactory.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+            <state relative-caret-position="354">
+              <caret line="31" selection-start-line="31" selection-end-line="31" />
               <folding>
-                <element signature="imports" expanded="true" />
+                <element signature="method#analyze#0;class#BeeFactory#0" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/exercises/Interleavings.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="275">
-              <caret line="11" column="5" selection-start-line="11" selection-start-column="5" selection-end-line="11" selection-end-column="5" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/exercises/PrimeFactorization.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="23">
-              <caret line="1" selection-start-line="1" selection-end-line="1" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/jshell/jshell_console_1.snippet">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="9" column="14" selection-start-line="9" selection-start-column="14" selection-end-line="9" selection-end-column="14" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/solutions/Interleavings.java">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/solutions/PrimeFactorization.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/solutions/BeeFactory.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-127">
-              <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+            <state relative-caret-position="1040">
+              <caret line="77" column="57" lean-forward="true" selection-start-line="77" selection-start-column="57" selection-end-line="77" selection-end-column="57" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="method#readData#0;class#BeeFactory#0" />
+                <element signature="class#Person#0" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -114,14 +159,29 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/exercises/Tree.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="375">
+            <state relative-caret-position="240">
               <caret line="42" column="4" selection-start-line="42" selection-start-column="4" selection-end-line="42" selection-end-column="26" />
               <folding>
                 <element signature="docComment;class#Tree#0" />
                 <element signature="method#insert#1;class#Tree#0" />
                 <element signature="class#LeafNode#0" />
-                <element signature="e#1529#1530#0" expanded="true" />
-                <element signature="e#1548#1549#0" expanded="true" />
+                <element signature="class#InnerNode#0" />
+                <element signature="method#InnerNode#0;class#InnerNode#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/solutions/Tree.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="416">
+              <caret line="57" column="25" selection-start-line="57" selection-start-column="25" selection-end-line="57" selection-end-column="25" />
+              <folding>
+                <element signature="docComment;class#Tree#0" />
+                <element signature="method#insert#1;class#Tree#0" />
+                <element signature="method#toList#1;class#Tree#0" />
+                <element signature="class#LeafNode#0" />
                 <element signature="class#InnerNode#0" />
                 <element signature="method#InnerNode#0;class#InnerNode#0" />
               </folding>
@@ -138,6 +198,14 @@
       </list>
     </option>
   </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>compare</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
@@ -147,8 +215,6 @@
         <option value="$PROJECT_DIR$/src/exercises/Tree.java" />
         <option value="$PROJECT_DIR$/src/solutions/Tree.java" />
         <option value="$PROJECT_DIR$/src/exercises/Interleavings.java" />
-        <option value="$PROJECT_DIR$/pom.xml" />
-        <option value="$PROJECT_DIR$/src/main/java/solutions/Tree.java" />
         <option value="$PROJECT_DIR$/src/test/java/exercises/TreeTest.groovy" />
         <option value="$PROJECT_DIR$/src/main/java/solutions/Interleavings.java" />
         <option value="$PROJECT_DIR$/src/main/java/solutions/PrimeFactorization.java" />
@@ -156,6 +222,10 @@
         <option value="$PROJECT_DIR$/src/main/java/exercises/Tree.java" />
         <option value="$PROJECT_DIR$/src/main/java/exercises/Interleavings.java" />
         <option value="$PROJECT_DIR$/src/main/java/exercises/PrimeFactorization.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/solutions/Tree.java" />
+        <option value="$PROJECT_DIR$/src/main/java/exercises/BeeFactory.java" />
+        <option value="$PROJECT_DIR$/src/main/java/solutions/BeeFactory.java" />
       </list>
     </option>
   </component>
@@ -176,7 +246,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -206,13 +275,42 @@
               <item name="ExamHS17" type="b2602c69:ProjectViewProjectNode" />
               <item name="Exam" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="exercises" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ExamHS17" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Exam" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="exercises" type="462c0819:PsiDirectoryNode" />
+              <item name="Tree.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
+            </path>
+            <path>
+              <item name="ExamHS17" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Exam" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="solutions" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ExamHS17" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Exam" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="solutions" type="462c0819:PsiDirectoryNode" />
+              <item name="Tree.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
       <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -221,9 +319,9 @@
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="Groovy JUnit" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.Groovy JUnit" value="groovy.util.GroovyTestCase" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
-    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="project.structure.side.proportion" value="0.43218392" />
     <property name="settings.editor.selected.configurable" value="vcs.Subversion" />
     <property name="settings.editor.splitter.proportion" value="0.2" />
   </component>
@@ -231,11 +329,14 @@
     <key name="CreateTestDialog.RecentsKey">
       <recent name="exercises" />
     </key>
-    <key name="CopyClassDialog.RECENTS_KEY">
-      <recent name="solutions" />
-    </key>
     <key name="CreateTestDialog.Recents.Supers">
       <recent name="groovy.util.GroovyTestCase" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="solutions" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\mikeb\Nextcloud\ETH\3. Jahr\EPROG TA\Exam\src\solutions" />
@@ -254,7 +355,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Tree">
+  <component name="RunManager" selected="Application.BeeFactory">
     <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
       <module name="" />
       <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
@@ -262,13 +363,41 @@
       <predefined_log_file id="idea.log" enabled="true" />
       <method />
     </configuration>
-    <configuration name="Interleavings" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="exercises.Interleavings" />
+    <configuration name="BeeFactory (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="exercises.BeeFactory" />
       <module name="Exam" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="exercises.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BeeFactory" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="solutions.BeeFactory" />
+      <module name="Exam" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="solutions.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Interleavings" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="solutions.Interleavings" />
+      <module name="Exam" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value=".*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -278,20 +407,6 @@
     </configuration>
     <configuration name="PrimeFactorization" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="exercises.PrimeFactorization" />
-      <module name="Exam" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="exercises.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Tree (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="solutions.Tree" />
       <module name="Exam" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
@@ -310,7 +425,7 @@
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="exercises.*" />
+          <option name="PATTERN" value="solutions.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -339,17 +454,18 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Tree" />
-      <item itemvalue="Application.Tree (1)" />
       <item itemvalue="Application.Interleavings" />
+      <item itemvalue="Application.Tree" />
       <item itemvalue="Application.PrimeFactorization" />
+      <item itemvalue="Application.BeeFactory" />
+      <item itemvalue="Application.BeeFactory (1)" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.BeeFactory" />
+        <item itemvalue="Application.BeeFactory (1)" />
         <item itemvalue="Application.Tree" />
         <item itemvalue="Application.PrimeFactorization" />
-        <item itemvalue="Application.Interleavings" />
-        <item itemvalue="Application.Tree (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -365,16 +481,19 @@
       <updated>1543957131339</updated>
       <workItem from="1543957133025" duration="9152000" />
       <workItem from="1543997520635" duration="3399000" />
+      <workItem from="1544560923736" duration="11520000" />
+      <workItem from="1544624298491" duration="2148000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="12551000" />
+    <option name="totallyTimeSpent" value="26219000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-6" y="-6" width="1381" height="925" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2532124" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.25699168" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="UI Designer" order="3" />
@@ -396,7 +515,7 @@
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="right" id="Database" order="4" />
-      <window_info anchor="right" x="0" y="0" width="295" height="725" id="Documentation" order="5" side_tool="true" weight="0.32955405" />
+      <window_info anchor="right" x="0" y="0" width="295" height="725" id="Documentation" order="5" side_tool="true" weight="0.42932728" />
       <window_info anchor="right" id="Palette&#9;" order="6" />
       <window_info anchor="right" id="Maven Projects" order="7" />
     </layout>
@@ -405,38 +524,7 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/bienen.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Exam.iml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="160">
-          <caret line="18" selection-start-line="18" selection-end-line="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/solutions/Tree.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="100">
-          <caret line="11" column="19" selection-start-line="11" selection-start-column="19" selection-end-line="11" selection-end-column="19" />
-          <folding>
-            <element signature="docComment;class#Tree#0" />
-            <element signature="method#insert#1;class#Tree#0" />
-            <element signature="method#lookUp#0;class#Tree#0" />
-            <element signature="class#LeafNode#0" />
-            <element signature="class#InnerNode#0" />
-            <element signature="method#InnerNode#0;class#InnerNode#0" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/exercises/TreeTest.groovy" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/solutions/Interleavings.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="jar://C:/Program Files/Java/jdk-11.0.1/lib/src.zip!/java.base/java/util/HashSet.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-3568">
@@ -444,57 +532,169 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/exercises/Interleavings.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="11" column="5" selection-start-line="11" selection-start-column="5" selection-end-line="11" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk-11.0.1/lib/src.zip!/java.base/java/util/HashMap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="469" column="11" selection-start-line="469" selection-start-column="11" selection-end-line="469" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="30" selection-start-line="30" selection-end-line="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Exam.iml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="432">
+          <caret line="27" column="9" selection-start-line="27" selection-start-column="9" selection-end-line="27" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/solutions/Interleavings.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="112">
+          <caret line="9" column="20" lean-forward="true" selection-start-line="9" selection-start-column="20" selection-end-line="9" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/bienen.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
     <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/jshell/jshell_console_1.snippet">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="9" column="14" selection-start-line="9" selection-start-column="14" selection-end-line="9" selection-end-column="14" />
+        <state relative-caret-position="144">
+          <caret line="9" column="14" selection-start-line="9" selection-start-column="8" selection-end-line="9" selection-end-column="14" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/exercises/PrimeFactorization.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="23">
+        <state relative-caret-position="16">
           <caret line="1" selection-start-line="1" selection-end-line="1" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/exercises/Interleavings.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/solutions/PrimeFactorization.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="275">
-          <caret line="11" column="5" selection-start-line="11" selection-start-column="5" selection-end-line="11" selection-end-column="5" />
+        <state relative-caret-position="160">
+          <caret line="13" column="60" selection-start-line="13" selection-start-column="60" selection-end-line="13" selection-end-column="60" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/exercises/BeeFactory.java">
+    <entry file="jar://C:/Program Files/Java/jdk-11.0.1/lib/src.zip!/java.base/java/util/Comparator.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+        <state relative-caret-position="136">
+          <caret line="108" column="16" selection-start-line="108" selection-start-column="7" selection-end-line="108" selection-end-column="16" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="docComment;class#Comparator#0" />
+            <element signature="docComment;method#compare#0;class#Comparator#0" />
+            <element signature="docComment;method#equals#0;class#Comparator#0" />
+            <element signature="docComment;method#reversed#0;class#Comparator#0" />
+            <element signature="docComment;method#thenComparing#0;class#Comparator#0" />
+            <element signature="method#thenComparing#0;class#Comparator#0" />
+            <element signature="e#9067#9190#0" />
+            <element signature="docComment;method#thenComparing#1;class#Comparator#0" />
+            <element signature="method#thenComparing#1;class#Comparator#0" />
+            <element signature="docComment;method#thenComparing#2;class#Comparator#0" />
+            <element signature="method#thenComparing#2;class#Comparator#0" />
+            <element signature="docComment;method#thenComparingInt#0;class#Comparator#0" />
+            <element signature="method#thenComparingInt#0;class#Comparator#0" />
+            <element signature="docComment;method#thenComparingLong#0;class#Comparator#0" />
+            <element signature="method#thenComparingLong#0;class#Comparator#0" />
+            <element signature="docComment;method#thenComparingDouble#0;class#Comparator#0" />
+            <element signature="method#thenComparingDouble#0;class#Comparator#0" />
+            <element signature="docComment;method#reverseOrder#0;class#Comparator#0" />
+            <element signature="docComment;method#naturalOrder#0;class#Comparator#0" />
+            <element signature="method#naturalOrder#0;class#Comparator#0" />
+            <element signature="docComment;method#nullsFirst#0;class#Comparator#0" />
+            <element signature="method#nullsFirst#0;class#Comparator#0" />
+            <element signature="docComment;method#nullsLast#0;class#Comparator#0" />
+            <element signature="method#nullsLast#0;class#Comparator#0" />
+            <element signature="method#comparing#0;class#Comparator#0" />
+            <element signature="docComment;method#comparing#1;class#Comparator#0" />
+            <element signature="method#comparing#1;class#Comparator#0" />
+            <element signature="docComment;method#comparingInt#0;class#Comparator#0" />
+            <element signature="method#comparingInt#0;class#Comparator#0" />
+            <element signature="docComment;method#comparingLong#0;class#Comparator#0" />
+            <element signature="method#comparingLong#0;class#Comparator#0" />
+            <element signature="docComment;method#comparingDouble#0;class#Comparator#0" />
+            <element signature="method#comparingDouble#0;class#Comparator#0" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk-11.0.1/lib/src.zip!/java.base/java/util/Collections.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="720">
+          <caret line="81" column="10" selection-start-line="81" selection-end-line="82" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/exercises/Tree.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="375">
+        <state relative-caret-position="240">
           <caret line="42" column="4" selection-start-line="42" selection-start-column="4" selection-end-line="42" selection-end-column="26" />
           <folding>
             <element signature="docComment;class#Tree#0" />
             <element signature="method#insert#1;class#Tree#0" />
             <element signature="class#LeafNode#0" />
-            <element signature="e#1529#1530#0" expanded="true" />
-            <element signature="e#1548#1549#0" expanded="true" />
             <element signature="class#InnerNode#0" />
             <element signature="method#InnerNode#0;class#InnerNode#0" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/solutions/PrimeFactorization.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/solutions/Tree.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-127">
-          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        <state relative-caret-position="416">
+          <caret line="57" column="25" selection-start-line="57" selection-start-column="25" selection-end-line="57" selection-end-column="25" />
+          <folding>
+            <element signature="docComment;class#Tree#0" />
+            <element signature="method#insert#1;class#Tree#0" />
+            <element signature="method#toList#1;class#Tree#0" />
+            <element signature="class#LeafNode#0" />
+            <element signature="class#InnerNode#0" />
+            <element signature="method#InnerNode#0;class#InnerNode#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/exercises/BeeFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="354">
+          <caret line="31" selection-start-line="31" selection-end-line="31" />
+          <folding>
+            <element signature="method#analyze#0;class#BeeFactory#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk-11.0.1/lib/src.zip!/java.base/java/util/stream/Stream.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="960" column="13" selection-start-line="960" selection-start-column="13" selection-end-line="960" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/solutions/BeeFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1040">
+          <caret line="77" column="57" lean-forward="true" selection-start-line="77" selection-start-column="57" selection-end-line="77" selection-end-column="57" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="method#readData#0;class#BeeFactory#0" />
+            <element signature="class#Person#0" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -507,7 +707,7 @@
           <splitter-proportions>
             <option name="proportions">
               <list>
-                <option value="0.2" />
+                <option value="0.43218392" />
               </list>
             </option>
           </splitter-proportions>
@@ -519,7 +719,7 @@
           <splitter-proportions>
             <option name="proportions">
               <list>
-                <option value="0.2" />
+                <option value="0.43218392" />
               </list>
             </option>
           </splitter-proportions>
@@ -554,7 +754,7 @@
           <splitter-proportions>
             <option name="proportions">
               <list>
-                <option value="0.2" />
+                <option value="0.43218392" />
                 <option value="0.6" />
               </list>
             </option>
@@ -575,10 +775,11 @@
       </state>
       <state key="ProjectLibrariesConfigurable.UI">
         <settings>
+          <last-edited>Maven: org.opentest4j:opentest4j:1.1.1</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
-                <option value="0.2" />
+                <option value="0.43218392" />
               </list>
             </option>
           </splitter-proportions>

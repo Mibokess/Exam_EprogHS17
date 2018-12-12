@@ -63,6 +63,7 @@ public class Tree {
 					break;
 			}
 		}
+
 		if (!(position instanceof LeafNode)) throw new IllegalArgumentException();
 		return ((LeafNode) position).getValue();
 	}

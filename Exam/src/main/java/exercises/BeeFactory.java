@@ -1,16 +1,18 @@
 package exercises;
 
+import org.w3c.dom.stylesheets.LinkStyle;
+
 import java.io.File;
 import java.io.FileNotFoundException;
 import java.io.PrintStream;
-import java.util.Scanner;
+import java.util.*;
 
 /**
  * Created by mikeb on 04-Dec-18
  */
 public class BeeFactory {
 	public static void main(String[] args) throws FileNotFoundException {
-		String dateiName = "bienen.txt";
+		String dateiName = "src\\main\\java\\bienen.txt";
 		Scanner scanner = new Scanner(new File(dateiName));
 		PrintStream output = new PrintStream(System.out);
 
@@ -24,7 +26,6 @@ public class BeeFactory {
 	 * Ändern Sie nicht die Signatur der Methode
 	 */
 	public static void analyze(Scanner input, PrintStream output) {
-		// TODO: Lesen Sie das File von input und geben Sie Ihre Lösung nach output aus.
-
+		// Todo: Implement
 	}
 }
